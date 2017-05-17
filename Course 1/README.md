@@ -1,7 +1,7 @@
 ### WEEK 2 - Rock-Paper-Scissor-Lizard-Spock Game
 
 <p align="left">
-Rock-paper-scissors-lizard-Spock (RPSLS) is a variant of Rock-paper-scissors that allows five choices. Each choice wins against two other choices, loses against two other choices and ties against itself. In our first mini-project, we will build a Python function rpsls(name) that takes as input the string name, which is one of "rock", "paper", "scissors", "lizard", or "Spock".The function then simulates playing a round of Rock-paper-scissors-lizard-Spock by generating its own random choice from these alternatives and then determining the winner
+Rock-paper-scissors-lizard-Spock (RPSLS) is a variant of Rock-paper-scissors that allows five choices. Each choice wins against two other choices, loses against two other choices and ties against itself. In our first mini-project, we will build a Python function rpsls(name) that takes as input the string name, which is one of "rock", "paper", "scissors", "lizard", or "Spock".The function then simulates playing a round of Rock-paper-scissors-lizard-Spock by generating its own random choice from these alternatives and then determining the winner.
 </p>
 
 *  [Rock-Paper-Scissor-Lizard-Spock Game](https://github.com/Jai4/Fundamentals-Of-Computing-Specialization/blob/master/Course%201/Week%202/Rock-Paper-Scissor-Lizard-Spock.py)
@@ -14,6 +14,11 @@ One of the simplest two-player games is “Guess the number”. The first player
 
 * [Guess The Number](https://github.com/Jai4/Fundamentals-Of-Computing-Specialization/blob/master/Course%201/Week%203/Guess-The-Number.py)
 
+### Week 4 - Stop Watch
+
+<p align="left">
+Our mini-project for this week will focus on combining text drawing in the canvas with timers to build a simple digital stopwatch that keeps track of the time in tenths of a second. The stopwatch should contain "Start", "Stop" and "Reset" buttons. 
+</p>
 
 
 
