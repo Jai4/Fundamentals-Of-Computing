@@ -20,7 +20,12 @@ One of the simplest two-player games is “Guess the number”. The first player
 Our mini-project for this week will focus on combining text drawing in the canvas with timers to build a simple digital stopwatch that keeps track of the time in tenths of a second. The stopwatch should contain "Start", "Stop" and "Reset" buttons. 
 </p>
 
+* [Stop Watch](https://github.com/Jai4/Fundamentals-Of-Computing-Specialization/blob/master/Course%201/Week%204/Stop%20Watch.py)
 
+### Week 5 - Pong
 
+<p align="left">
+In this project, we will build a version of Pong, one of the first arcade video games (1972). While Pong is not particularly exciting compared to today's video games, Pong is relatively simple to build and provides a nice opportunity to work on the skills that you will need to build a game like Asteroids. 
+<p>
 
 
