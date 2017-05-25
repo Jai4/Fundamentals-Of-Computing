@@ -28,4 +28,6 @@ Our mini-project for this week will focus on combining text drawing in the canva
 In this project, we will build a version of Pong, one of the first arcade video games (1972). While Pong is not particularly exciting compared to today's video games, Pong is relatively simple to build and provides a nice opportunity to work on the skills that you will need to build a game like Asteroids. 
 <p>
 
+* [Pong](https://github.com/Jai4/Fundamentals-Of-Computing-Specialization/blob/master/Course%201/Week%205/Pong.py)
+
 
